@@ -2,7 +2,7 @@
 
 Learning Terraform with AWS examples.
 
-This repository covers a simple-learning approach for Terraform (90%) and Packer (10%) with AWS. <br>
+This Repository covers a simple-learning approach for Terraform (90%) and Packer (10%) with AWS. <br>
 
 We will cover important Infrastructure as Code (IaC) concepts that support the best DevOps practices. <br>
 
